@@ -40,7 +40,7 @@ Here are some of the personal projects I've built:
 ## 📫 Contact Me
 
 - 📧 arteaga_manuel88@outlook.com
-- - 🔗 LinkedIn: [Manuel Alejandro Arteaga Ontiveros](https://www.linkedin.com/in/manuel-alejandro-arteaga-ontiveros-39b502369)
+- 🔗 LinkedIn: [Manuel Alejandro Arteaga Ontiveros](https://www.linkedin.com/in/manuel-alejandro-arteaga-ontiveros-39b502369)
 
 ---
 
