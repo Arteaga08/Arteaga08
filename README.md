@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Hi, i'm Manuel Arteaga</h1>
+<h1 align="center">Hi 👋, i'm Manuel Arteaga</h1>
 
 <p align="center">
   💻 Frontend Developer | 📱 Mobile App Enthusiast | 🚀 Always Learning
