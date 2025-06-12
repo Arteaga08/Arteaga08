@@ -21,7 +21,7 @@
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, MySQL
 - **Mobile**: React Native
-- **Tools**: Git, GitHub, Visual Studio Code
+- **Tools**: Git, GitHub, Visual Studio Code, PostMan
 
 ---
 
