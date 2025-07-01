@@ -31,7 +31,7 @@ Here are some of the personal projects I've built:
 
 - 📱📚 **Book Recommendation App** – A mobile app built with React Native where users can discover and save book suggestions.
 - 🎬 **Movie Website** – A web application to browse and view movie details, built using HTML, CSS, and JavaScript.
-- 📝 **Rich Text Editor** – A browser-based rich text editor with basic formatting tools
+- 💬 **TextMe** – A real-time chat application built with the MERN stack. 
 
 *Feel free to explore my repositories to see more!*
 
