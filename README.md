@@ -17,8 +17,8 @@
 
 ## 🛠️ Technologies I Use
 
-- **Frontend**: HTML5, CSS3, JavaScript, React, Tailwind CSS
-- **Backend**: Node.js, Express.js
+- **Frontend**: HTML5, CSS3, JavaScript, React, TypeScript, TailwindCSS
+- **Backend**: Node.js, Express.js, Python
 - **Databases**: MongoDB, MySQL
 - **Mobile**: React Native
 - **Tools**: Git, GitHub, Visual Studio Code, PostMan
